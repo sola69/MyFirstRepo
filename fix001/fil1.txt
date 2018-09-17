@@ -1,0 +1,2 @@
+Detta är fil 1.
+En fix gjord för fix001.
